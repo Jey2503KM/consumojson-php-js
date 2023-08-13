@@ -1,0 +1,15 @@
+{
+     "perros":[
+        {
+    "nombre": "Hachi",
+    "edad":10,
+    "raza":"criollo"
+    },
+    {
+        "nombre": "Tiara",
+        "edad":7,
+        "raza":"criollo"
+    }
+]
+}
+   
